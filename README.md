@@ -1,18 +1,16 @@
-<h1 align="center"><b>Hi , I'm Beatriz Oliveira </b><img src="https://media.tenor.com/C4lCxC3_IgAAAAAi/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Beatriz Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/C4lCxC3_IgAAAAAi/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B.gif" />
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I’m a Systems Analysis and Development student with knowledge in Python and Figma, and I’m currently learning Java.
+* **I’m passionate about backend development with Java and love learning, creating, and building innovative, productive, and creative solutions.**
 - 🌱 I’m currently learning ...
   - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 👯 I’m open to collaborating on open-source projects and connecting with other developers to share ideas and experiences.
+- ✔ Feel free to ask me anything — I’ll be happy to help whenever I can!
+- 📫 Reach out to me at: <a href="oliveirabeatrizxs@gmail.com">oliveirabeatrizxs@gmail.com</a>
 
 ## My Skills Include
 
@@ -55,9 +53,19 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="mailto:oliveirabeatrizxs@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=oliveirabeatrizxs@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
 <div align="center">
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=BiaOlvx&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BiaOlvx)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BiaOlvx&theme=material-palenight)](https://github.com/BiaOlvx)
+ <a href="https://github.com/BiaOlvx">
+    <img width=450 height=170 align="center" alt="BiaOlvx" src="https://github-readme-stats.vercel.app/api?username=BiaOlvx&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/BiaOlvx">
+    <img align="center" alt="BiaOlvx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOlvx&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 </div>
+
+<div>
